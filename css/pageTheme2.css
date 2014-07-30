@@ -149,14 +149,8 @@ overflow:auto;
 	top: 0%;
 	left: 0%;
 	bottom: 92%;
-	opacity: 0.7;
   z-index:9;
-  background: #16161F;
-
-      animation: fadein 3s;
-    -moz-animation: fadein 3s; /* Firefox */
-    -webkit-animation: fadein 3s; /* Safari and Chrome */
-    -o-animation: fadein 3s; /* Opera */
+  background-color: rgba(22, 22, 31, 0.7);
 }
 
 .footerContainer{
